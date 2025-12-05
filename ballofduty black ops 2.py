@@ -1,9 +1,9 @@
 #ballofduty
 import playsound
-a=input("O  >:(")
+a=input("( :) )  >:(")
 if a=="s":
  playsound("america.mp3")
- print("win ending!")
+ print("win ending!: you shot the police ooficerr")
 if a=="b":
  print("befreind ending: you befreinded the police officer")
 if a=="r":
